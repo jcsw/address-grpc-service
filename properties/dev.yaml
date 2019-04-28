@@ -1,0 +1,7 @@
+# DEV
+
+# Server
+server_port: 9290
+
+# MongoDB
+mongodb_uri: mongodb://address_service_adm:address_service_pwd@localhost:27017/admin?connectTimeoutMS=100&socketTimeoutMS=500
